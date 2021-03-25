@@ -1,5 +1,4 @@
-![paperwork-3154814](https://user-images.githubusercontent.com/30373382/112540069-099e5a80-8db2-11eb-8e7a-ac3913e94cee.jpg)
-
+![laptop-2838921_1920](https://user-images.githubusercontent.com/30373382/112540159-22a70b80-8db2-11eb-87fe-bea0921e793d.jpg)
 
 
 
