@@ -1,3 +1,7 @@
+![laptop-2838921_1920s](https://user-images.githubusercontent.com/30373382/112537374-e1f9c300-8dae-11eb-86e3-487d02e97d4f.jpg)
+
+
+
 ### Hi there 👋! I am Darek
 I work in the field of banking. I am interested in programming, web design and development (front-end).
 - 📟 My website: https://dariuszstaryk.github.io/
