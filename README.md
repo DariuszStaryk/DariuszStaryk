@@ -1,4 +1,5 @@
-![laptop-2838921_1920](https://user-images.githubusercontent.com/30373382/112540159-22a70b80-8db2-11eb-87fe-bea0921e793d.jpg)
+![laptop-2838921_1920a](https://user-images.githubusercontent.com/30373382/112543247-c7771800-8db5-11eb-8c9f-fb84f3cf001d.jpg)
+
 
 
 
@@ -17,5 +18,6 @@ I work in the field of banking. I am interested in programming, web design and d
 - 💬 My LinkedIn website: https://www.linkedin.com/in/dariuszstaryk/
 - ✉️ How to reach me: darek19@yahoo.com 
 - 😃 Fun fact: *recent studies have shown, that over 70% of coding jobs are in fields outside of technology. In the near future, knowing how to code will be as necessary, as knowing how to write is today, regardless of the field or career students decide for their future.*
+
 
 
