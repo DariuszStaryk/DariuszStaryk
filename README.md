@@ -1,4 +1,4 @@
-
+### Hi there 👋! I am Darek
 I work in the field of banking. I am interested in programming, web design and development (front-end).
 - 📟 My website: https://dariuszstaryk.github.io/
 - 📜 My projects: 
