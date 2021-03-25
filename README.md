@@ -1,4 +1,4 @@
-![laptop-2838921_1920gh](https://user-images.githubusercontent.com/30373382/112543724-71ef3b00-8db6-11eb-84f6-bf2bba63935e.jpg)
+![laptop-2838921_1920gh](https://user-images.githubusercontent.com/30373382/112544243-0eb1d880-8db7-11eb-9a93-e614dbb343ec.jpg)
 
 ### Hi there 👋! I am Darek
 I work in the field of banking. I am interested in programming, web design and development (front-end).
