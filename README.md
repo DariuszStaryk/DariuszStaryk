@@ -8,9 +8,7 @@ I work in the field of banking. I am interested in programming, web design and d
 4️⃣ https://dariuszstaryk.github.io/To-Do-List-and-Calculator/
 5️⃣ https://dariuszstaryk.github.io/HTML5-CSS3-examples/
 6️⃣ https://dariuszstaryk.github.io/Bootstrap-examples/
-
--  HTML5, CSS3, JavaScript, TypeScript, Angular, jQuery, Bootstrap, GitHub, Grunt, Photoshop, Gimp, Wordpress, RWD, Sass, AJAX, JSON
-
+- ⚡ My skills: HTML5, CSS3, JavaScript, jQuery, Bootstrap, GitHub, Photoshop, Gimp, Wordpress, RWD, Sass, AJAX, JSON
 - 📙 I’m currently learning: ES6, TypeScript and Angular
 - 💬 My LinkedIn website: https://www.linkedin.com/in/dariuszstaryk/
 - ✉️ How to reach me: darek19@yahoo.com 
