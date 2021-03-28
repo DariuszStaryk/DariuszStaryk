@@ -1,6 +1,6 @@
 ![laptop-2838921_1920gh](https://user-images.githubusercontent.com/30373382/112544243-0eb1d880-8db7-11eb-9a93-e614dbb343ec.jpg)
 
-### Hi there ! 👋 I am Darek
+## Hi there ! 👋 I am Darek
 I work in the field of banking. I am interested in programming, web design and development (front-end).
 - ⚡ My skills: HTML5, CSS3, JavaScript, jQuery, Bootstrap, GitHub, Photoshop, Gimp, Wordpress, RWD, Sass, AJAX, JSON
 - 📙 I’m currently learning: ES6, TypeScript and Angular
